@@ -1,0 +1,26 @@
+body{
+    background-color: yellowgreen;
+    
+}
+button img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+#r{
+   height: 50px;
+   width:50px;
+
+}
+button{
+    background-color: transparent;
+    border-color: transparent;
+}
+table th{
+    background-color: blueviolet;
+    color: white;
+    height: 20px;
+}
+table td{
+    background-color: white;
+}
